@@ -5,6 +5,6 @@ About me:
 🏦 Former finance analyst in career change
 ❤️ Loves yoga, travelling, music
 🌎 Currently living in South of France France
-📫 How to reach me: Linkedin Badge
+📫 How to reach me: lea.monsenego@gmail.com
 Languages and tools:
 HTML  CSS  JavaScript  React  NodeJS  Express  MongoDB  
