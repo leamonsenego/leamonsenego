@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @leamonsenego
-- 👀 I currently work as an analyst in MedTech and am interested in learning how to code
-- 🌱 I’m currently learning html, css and javascript for a start!
-- 💞️ I’m looking to create original projects, build a sick portfolio and take my career to the next level!
-- 📫 How to reach me : lea.monsenego@gmail.com or linkedin.com/leamonsenego
-
-<!---
-leamonsenego/leamonsenego is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there, I'm Lea 
+About me:
+👩‍💻 I’m a soon-to-be full stack web developer
+🌱 Ironhack bootcamp (june/2023)
+🏦 Former finance analyst in career change
+❤️ Loves yoga, travelling, music
+🌎 Currently living in South of France France
+📫 How to reach me: Linkedin Badge
+Languages and tools:
+HTML  CSS  JavaScript  React  NodeJS  Express  MongoDB  
