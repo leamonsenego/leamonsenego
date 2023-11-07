@@ -6,5 +6,5 @@ About me:
 ❤️ Loves yoga, reading books, travelling, music (10 years of violin!)
 🌎 Currently living in South of France France
 📫 How to reach me: lea.monsenego@gmail.com
-Languages and tools:
-HTML  CSS  JavaScript  React  NodeJS  Express  MongoDB  
+💼 Languages and Tools
+HTML  CSS  JavaScript  ReactJS  NodeJS  Express  MongoDB Mongoose
